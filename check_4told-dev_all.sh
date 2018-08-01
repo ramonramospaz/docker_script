@@ -1,2 +1,2 @@
-sudo docker logs -f --tail 500 4told-dev
+sudo docker logs -f --tail 1000 4told-dev
 
